@@ -4,8 +4,6 @@
  *
  * @author
  * Nicole Niemiec
- * #112039349
- * nicole.niemiec@stonybrook.edu
  * CSE 214 R08 FELIX
  * DECEMBER 3RD, HW #7
  *
