@@ -2,15 +2,13 @@ import java.util.ArrayList;
 import java.io.Serializable;
 
 /**
- * A class that acts as a Wrapper for Twittior user. The class holds two instance
+ * A class that acts as a Wrapper for Twittor user. The class holds two instance
  * variables: an int keeping track of the User's index position, and a String
  * representing the User's name. It also has a static int variable that
  * keeps track of the user count.
  *
  * @author
  * Nicole Niemiec
- * #112039349
- * nicole.niemiec@stonybrook.edu
  * CSE 214 R08 FELIX
  * DECEMBER 3RD, HW #7
  *
